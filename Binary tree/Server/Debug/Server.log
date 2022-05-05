@@ -1,0 +1,18 @@
+﻿  server.cpp
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(267,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(323,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(358,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(377,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(394,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(681,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(690,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(775,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(795,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(822,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(836,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(896,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(925,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(953,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(982,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Server\server.cpp(1005,20): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> C:\Users\KING\source\repos\Binary tree\Debug\Server.exe

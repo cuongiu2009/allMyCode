@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Factory id="1">
+    <Name>AnBay</Name>
+    <Location>
+        <X>13</X>
+        <Y>14</Y>
+    </Location>
+    <Employee>200</Employee>
+</Factory>

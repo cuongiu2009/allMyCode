@@ -1,0 +1,12 @@
+﻿  Visitor.cpp
+C:\Users\KING\source\repos\HTMT\Test2\Node.h(59,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Test2\Node.h(80,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Test2\Node.h(107,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Test2\Node.h(151,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Test2\Node.h(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Test2\Visitor.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Test2\Visitor.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Test2\Visitor.cpp(300,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Test2\Visitor.cpp(309,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Test2\Visitor.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+  Test2.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Test2.exe

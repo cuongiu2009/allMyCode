@@ -1,0 +1,6 @@
+﻿  STN.cpp
+C:\Users\KING\source\repos\HTMT\Lab3\STN.cpp(23,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab3\STN.cpp(35,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab3\STN.cpp(118,16): warning C4244: 'argument': conversion from 'const __int64' to 'int', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab3\STN.cpp(123,16): warning C4244: 'argument': conversion from 'const __int64' to 'int', possible loss of data
+  Lab3.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Lab3.exe

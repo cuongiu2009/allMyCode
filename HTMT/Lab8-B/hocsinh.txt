@@ -1,0 +1,3 @@
+2
+le phi duong, 10, 10
+le hai duong, 9, 9

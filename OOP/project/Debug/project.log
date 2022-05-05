@@ -1,0 +1,12 @@
+﻿  Visitor.cpp
+C:\Users\KING\source\repos\OOP\project\Node.h(59,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\OOP\project\Node.h(80,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\OOP\project\Node.h(107,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\OOP\project\Node.h(151,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\KING\source\repos\OOP\project\Node.h(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\OOP\project\Visitor.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\OOP\project\Visitor.cpp(288,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\OOP\project\Visitor.cpp(311,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\OOP\project\Visitor.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\OOP\project\Visitor.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+  project.vcxproj -> C:\Users\KING\source\repos\OOP\Debug\project.exe

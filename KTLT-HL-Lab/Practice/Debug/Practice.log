@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\KTLT-HL-Lab\Practice\Source.cpp(137,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\KING\source\repos\KTLT-HL-Lab\Practice\Source.cpp(236): warning C4715: 'addAfter': not all control paths return a value
+C:\Users\KING\source\repos\KTLT-HL-Lab\Practice\Source.cpp(228): warning C4715: 'addBefore': not all control paths return a value
+  Practice.vcxproj -> C:\Users\KING\source\repos\KTLT-HL-Lab\Debug\Practice.exe

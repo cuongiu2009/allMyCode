@@ -1,0 +1,3 @@
+﻿  function.cpp
+C:\Users\KING\source\repos\KTLT-HL-Lab\Week2-2\function.cpp(19,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Week2-2.vcxproj -> C:\Users\KING\source\repos\KTLT-HL-Lab\Debug\Week2-2.exe

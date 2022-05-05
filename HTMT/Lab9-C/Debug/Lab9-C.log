@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\HTMT\Lab9-C\Source.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab9-C\Source.cpp(119,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab9-C\Source.cpp(123,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab9-C\Source.cpp(124,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab9-C\Source.cpp(127,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab9-C\Source.cpp(131,22): warning C4018: '<': signed/unsigned mismatch
+  Lab9-C.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Lab9-C.exe

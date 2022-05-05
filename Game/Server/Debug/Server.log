@@ -1,0 +1,33 @@
+﻿  Console.cpp
+C:\Users\KING\Downloads\file-server\server\Console.cpp(6,43): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Console.cpp(12,83): warning C4244: 'argument': conversion from 'uint64_t' to 'WORD', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Console.cpp(32,19): warning C4838: conversion from 'const unsigned int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(32,22): warning C4838: conversion from 'const unsigned int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(123,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(124,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(131,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(131,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(136,33): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\server\Console.cpp(136,40): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  main.cpp
+  Program.cpp
+C:\Users\KING\Downloads\file-server\server\Program.cpp(33,25): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(34,18): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(250,25): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(329,45): warning C4244: 'argument': conversion from 'const uint64_t' to 'int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(342,45): warning C4244: 'argument': conversion from 'const uint64_t' to 'int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(567,105): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(568,88): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(525,7): warning C4101: 'iResult': unreferenced local variable
+C:\Users\KING\Downloads\file-server\server\Program.cpp(590,92): warning C4244: 'argument': conversion from 'const uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(665,86): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(666,69): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(687,78): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(628,7): warning C4101: 'iResult': unreferenced local variable
+C:\Users\KING\Downloads\file-server\server\Program.cpp(805,9): warning C4244: 'return': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\server\Program.cpp(901,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\Downloads\file-server\server\Program.cpp(905,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\Downloads\file-server\server\Program.cpp(1057,20): warning C4018: '<': signed/unsigned mismatch
+  User.cpp
+  Generating Code...
+  Server.vcxproj -> C:\Users\KING\source\repos\Game\Debug\Server.exe

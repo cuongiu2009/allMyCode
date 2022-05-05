@@ -1,0 +1,13 @@
+﻿  3-1.cpp
+  3-2.cpp
+  3-3.cpp
+  3-4.cpp
+  3.5.cpp
+  Generating Code...
+  LINK : C:\Users\KING\source\repos\KTLT-HL-Lab\Debug\Week4-A.exe not found or not built by the last incremental link; performing full link
+3-4.obj : error LNK2005: _main already defined in 3-3.obj
+3-1.obj : error LNK2005: _main already defined in 3-3.obj
+3-2.obj : error LNK2005: _main already defined in 3-3.obj
+3-6.obj : error LNK2005: _main already defined in 3-3.obj
+3.5.obj : error LNK2005: _main already defined in 3-3.obj
+C:\Users\KING\source\repos\KTLT-HL-Lab\Debug\Week4-A.exe : fatal error LNK1169: one or more multiply defined symbols found

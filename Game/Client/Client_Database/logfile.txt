@@ -1,0 +1,12 @@
+================ Date: 24 - 7 - 2021 ================
+[13:47] Server IP: 192.168.1.6
+Connection success.
+[13:48] <cuongiu2009> registered success.
+[13:48] Login failed. Username doesn't exist
+[13:48] Login failed. Username doesn't exist
+================ Date: 24 - 7 - 2021 ================
+[13:49] Server IP: 192.168.1.6
+Connection success.
+[13:49] Login failed.
+This account is currently online.
+[13:50] <cuongiu2009> logged in success.

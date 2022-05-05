@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\Binary tree\lab 1\Source.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\KING\source\repos\Binary tree\lab 1\Source.cpp(282,36): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\KING\source\repos\Binary tree\lab 1\Source.cpp(414,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\KING\source\repos\Binary tree\lab 1\Source.cpp(505): warning C4715: 'addBefore': not all control paths return a value
+C:\Users\KING\source\repos\Binary tree\lab 1\Source.cpp(513): warning C4715: 'addAfter': not all control paths return a value
+  lab 1.vcxproj -> C:\Users\KING\source\repos\Binary tree\Debug\lab 1.exe

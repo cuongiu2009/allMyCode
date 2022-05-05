@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\Game\Game\Source.cpp(182,10): warning C4101: 'switch_size': unreferenced local variable
+C:\Users\KING\source\repos\Game\Game\Source.cpp(180,12): warning C4101: 'j': unreferenced local variable
+  Game.vcxproj -> C:\Users\KING\source\repos\Game\Debug\Game.exe

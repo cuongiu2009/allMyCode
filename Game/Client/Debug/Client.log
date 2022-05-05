@@ -1,0 +1,30 @@
+﻿  Console.cpp
+C:\Users\KING\Downloads\file-server\client\Console.cpp(6,43): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Console.cpp(12,83): warning C4244: 'argument': conversion from 'uint64_t' to 'WORD', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Console.cpp(32,19): warning C4838: conversion from 'const unsigned int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(32,22): warning C4838: conversion from 'const unsigned int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(123,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(124,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(131,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(131,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(136,33): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\KING\Downloads\file-server\client\Console.cpp(136,40): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  File.cpp
+  main.cpp
+  Program.cpp
+C:\Users\KING\Downloads\file-server\client\Program.cpp(159,25): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(320,55): warning C4244: 'argument': conversion from 'const uint64_t' to 'int', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(333,55): warning C4244: 'argument': conversion from 'const uint64_t' to 'int', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(434,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(410,7): warning C4101: 'iResult': unreferenced local variable
+C:\Users\KING\Downloads\file-server\client\Program.cpp(500,41): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(508,65): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(522,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(533,53): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(538,56): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+C:\Users\KING\Downloads\file-server\client\Program.cpp(487,7): warning C4101: 'iResult': unreferenced local variable
+C:\Users\KING\Downloads\file-server\client\Program.cpp(560,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\Downloads\file-server\client\Program.cpp(690,20): warning C4018: '<': signed/unsigned mismatch
+  User.cpp
+  Generating Code...
+  Client.vcxproj -> C:\Users\KING\source\repos\Game\Debug\Client.exe

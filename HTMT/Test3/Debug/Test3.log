@@ -1,0 +1,32 @@
+﻿  Node.cpp
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(59,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(80,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(107,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(151,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(175,21): warning C4018: '<': signed/unsigned mismatch
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.cpp(7,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.cpp(8,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.cpp(95,18): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(59,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(80,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(107,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(151,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(175,21): warning C4018: '<': signed/unsigned mismatch
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Visitor.cpp
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(59,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(80,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(107,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(151,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Node.h(175,21): warning C4018: '<': signed/unsigned mismatch
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Visitor.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Visitor.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Visitor.cpp(300,20): warning C4018: '<': signed/unsigned mismatch
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Visitor.cpp(309,20): warning C4018: '<': signed/unsigned mismatch
+G:\DesignPattern_Visitor-main\DesignPattern_Visitor-main\Visitor.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Test3.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Test3.exe

@@ -1,0 +1,5 @@
+﻿  client.cpp
+C:\Users\KING\source\repos\Binary tree\Client\client.cpp(613,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Client\client.cpp(662,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\Binary tree\Client\client.cpp(953,23): warning C4018: '<': signed/unsigned mismatch
+  Client.vcxproj -> C:\Users\KING\source\repos\Binary tree\Debug\Client.exe

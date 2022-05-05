@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\Đồ án cuối kì\ComputerNetwork\Source.cpp(150,8): warning C4552: '-': result of expression not used
+C:\Users\KING\source\repos\Đồ án cuối kì\ComputerNetwork\Source.cpp(196,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ComputerNetwork.vcxproj -> C:\Users\KING\source\repos\Đồ án cuối kì\x64\Debug\ComputerNetwork.exe

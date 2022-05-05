@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\HTMT\Lab9-D\Source.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab9-D\Source.cpp(59,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab9-D\Source.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+  Lab9-D.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Lab9-D.exe

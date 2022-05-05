@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\Đồ án cuối kì\NEW DSA\Source.cpp(60,53): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\KING\source\repos\Đồ án cuối kì\NEW DSA\Source.cpp(60,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NEW DSA.vcxproj -> C:\Users\KING\source\repos\Đồ án cuối kì\x64\Debug\NEW DSA.exe

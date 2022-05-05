@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(31,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(85,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(88,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(100,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(137,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(139,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(141,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\KING\source\repos\HTMT\Lab7-D\Source.cpp(143,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab7-D.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Lab7-D.exe

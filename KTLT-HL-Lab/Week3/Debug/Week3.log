@@ -1,0 +1,5 @@
+﻿3-3.obj : error LNK2005: _main already defined in 3-2.obj
+3-4.obj : error LNK2005: _main already defined in 3-2.obj
+3-5.obj : error LNK2005: _main already defined in 3-2.obj
+Source.obj : error LNK2005: _main already defined in 3-2.obj
+C:\Users\KING\source\repos\KTLT-HL-Lab\Debug\Week3.exe : fatal error LNK1169: one or more multiply defined symbols found

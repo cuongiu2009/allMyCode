@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<City id="1">
+    <Name>DucAnCity</Name>
+    <Location>
+        <X>1</X>
+        <Y>2</Y>
+    </Location>
+    <Population>100000</Population>
+</City>

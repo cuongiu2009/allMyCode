@@ -1,0 +1,7 @@
+﻿  Node.cpp
+  Source.cpp
+C:\Users\KING\OneDrive - VNU-HCMUS\Desktop\XML_Export\Source.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+  Visitor.cpp
+C:\Users\KING\OneDrive - VNU-HCMUS\Desktop\XML_Export\Visitor.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project OOP.vcxproj -> C:\Users\KING\source\repos\HTMT\Debug\Project OOP.exe
