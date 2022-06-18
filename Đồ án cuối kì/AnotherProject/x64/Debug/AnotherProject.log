@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\KING\source\repos\Đồ án cuối kì\AnotherProject\Source.cpp(185,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\KING\source\repos\Đồ án cuối kì\AnotherProject\Source.cpp(258): warning C4715: 'priority': not all control paths return a value
-C:\Users\KING\source\repos\Đồ án cuối kì\AnotherProject\Source.cpp(369): warning C4715: 'cal': not all control paths return a value
-  AnotherProject.vcxproj -> C:\Users\KING\source\repos\Đồ án cuối kì\x64\Debug\AnotherProject.exe
